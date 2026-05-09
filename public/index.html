@@ -9,9 +9,16 @@
   <body>
     <main class="shell">
       <section class="hero">
-        <p class="eyebrow">Daily Quote Garden</p>
-        <h1 id="quoteText">오늘의 명언을 불러오는 중입니다.</h1>
-        <p id="quoteMeta" class="meta"></p>
+        <div class="hero-copy">
+          <p class="eyebrow">Daily Quote Garden</p>
+          <h1 id="quoteText">오늘의 명언을 불러오는 중입니다.</h1>
+          <p id="quoteMeta" class="meta"></p>
+        </div>
+        <div class="today-panel" aria-label="오늘의 기록">
+          <span>Today</span>
+          <strong id="todayDate">-</strong>
+          <p id="todaySource">기록 대기 중</p>
+        </div>
       </section>
 
       <section class="dashboard" aria-label="명언 기록 현황">
@@ -24,14 +31,17 @@
           <strong id="latestDate">-</strong>
         </article>
         <article>
-          <span>출처</span>
+          <span>데이터 출처</span>
           <strong id="sourceName">-</strong>
         </article>
       </section>
 
       <section class="history-section">
         <div class="section-title">
-          <h2>기록 히스토리</h2>
+          <div>
+            <p class="eyebrow">Archive</p>
+            <h2>기록 히스토리</h2>
+          </div>
           <a href="https://zenquotes.io/" target="_blank" rel="noreferrer">ZenQuotes API</a>
         </div>
         <ol id="historyList" class="history"></ol>

@@ -49,6 +49,10 @@ const [latest, history] = await Promise.all([
 const entries = Object.keys(history);
 const source = formatSource(latest.source);
 
+if ((latest.text ?? "").length > 92) {
+  document.body.classList.add("long-quote");
+}
+
 document.querySelector("#quoteText").textContent = latest.text;
 document.querySelector("#quoteMeta").textContent = `${latest.author} · ${latest.date ?? "기록 대기 중"}`;
 document.querySelector("#todayDate").textContent = latest.date ?? "-";

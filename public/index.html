@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Daily Quote Garden</title>
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="/public/styles.css">
   </head>
   <body>
     <main class="shell">
@@ -13,9 +13,13 @@
           <p class="eyebrow">Daily Quote Garden</p>
           <h1 id="quoteText">오늘의 명언을 불러오는 중입니다.</h1>
           <p id="quoteMeta" class="meta"></p>
+          <div class="actions" aria-label="빠른 링크">
+            <a class="primary-link" href="#history">기록 보기</a>
+            <a class="secondary-link" href="https://zenquotes.io/" target="_blank" rel="noreferrer">API 출처</a>
+          </div>
         </div>
         <div class="today-panel" aria-label="오늘의 기록">
-          <span>Today</span>
+          <span class="panel-label">Today</span>
           <strong id="todayDate">-</strong>
           <p id="todaySource">기록 대기 중</p>
         </div>
@@ -36,7 +40,7 @@
         </article>
       </section>
 
-      <section class="history-section">
+      <section class="history-section" id="history">
         <div class="section-title">
           <div>
             <p class="eyebrow">Archive</p>
@@ -48,6 +52,6 @@
       </section>
     </main>
 
-    <script src="./app.js" type="module"></script>
+    <script src="/public/app.js" type="module"></script>
   </body>
 </html>

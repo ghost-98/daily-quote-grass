@@ -74,6 +74,36 @@ test("오늘의 명언 파일과 이력을 생성한다", async () => {
   assert.equal(history["2026-05-09"].source, "zenquotes");
 });
 
+test("skips when the KST date is already recorded", async () => {
+  const rootDir = await mkdtemp(path.join(os.tmpdir(), "daily-quote-"));
+
+  await mkdir(path.join(rootDir, "data"), { recursive: true });
+  await writeFile(
+    path.join(rootDir, "data", "history.json"),
+    JSON.stringify({
+      "2026-05-09": {
+        text: "Already planted.",
+        author: "tester",
+        source: "test",
+        sourceUrl: null,
+        timezone: "Asia/Seoul"
+      }
+    }),
+    "utf8"
+  );
+
+  const result = await plantDailyQuote({
+    rootDir,
+    now: new Date("2026-05-08T15:25:00.000Z"),
+    fetchImpl: async () => {
+      throw new Error("fetch should not run for an existing date");
+    }
+  });
+
+  assert.equal(result.skipped, true);
+  assert.equal(result.quote.text, "Already planted.");
+});
+
 for (const { name, fn } of tests) {
   await fn();
   console.log(`ok - ${name}`);

@@ -3,8 +3,8 @@ name: Daily Quote
 on:
   workflow_dispatch:
   schedule:
-    # KST 00:10
-    - cron: "10 15 * * *"
+    # KST 00:33
+    - cron: "33 15 * * *"
 
 permissions:
   contents: write

@@ -6,4 +6,8 @@ const result = await plantDailyQuote({
   rootDir: fileURLToPath(new URL("..", import.meta.url))
 });
 
-console.log(`오늘의 명언을 기록했습니다: ${result.dateString} (${result.quote.source})`);
+if (result.skipped) {
+  console.log(`Daily quote already exists for ${result.dateString}; skipping.`);
+} else {
+  console.log(`Daily quote planted for ${result.dateString} (${result.quote.source}).`);
+}

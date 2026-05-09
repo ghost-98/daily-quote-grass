@@ -68,8 +68,18 @@ export async function plantDailyQuote({ rootDir, now = new Date(), fetchImpl = f
   const readmePath = path.join(rootDir, "README.md");
   const quoteDir = path.join(rootDir, "quotes", year, month);
   const quotePath = path.join(quoteDir, `${dateString}.md`);
-  const quote = await getQuoteForToday({ rootDir, dateString, fetchImpl });
   const history = await readJson(historyPath, {});
+
+  if (history[dateString]) {
+    return {
+      dateString,
+      quote: history[dateString],
+      quotePath,
+      skipped: true
+    };
+  }
+
+  const quote = await getQuoteForToday({ rootDir, dateString, fetchImpl });
 
   history[dateString] = {
     text: quote.text,
@@ -102,6 +112,7 @@ export async function plantDailyQuote({ rootDir, now = new Date(), fetchImpl = f
   return {
     dateString,
     quote,
-    quotePath
+    quotePath,
+    skipped: false
   };
 }

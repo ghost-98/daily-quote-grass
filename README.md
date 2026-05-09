@@ -29,12 +29,26 @@ GIT_AUTHOR_NAME=<GitHub 사용자명>
 GIT_AUTHOR_EMAIL=<GitHub noreply 이메일 또는 계정에 연결된 이메일>
 ```
 
+## Fallback 문구 출처
+
+`data/fallback-quotes.json`의 문구는 API 장애나 응답 오류가 발생해도 자동 기록이 멈추지 않도록 프로젝트 안에서 직접 작성한 대체 문구입니다. 외부 명언을 복사한 데이터가 아니라, 이 저장소의 자동화 안정성을 위한 로컬 예비 데이터입니다.
+
+평소에는 ZenQuotes API의 오늘의 명언을 저장하고, API 호출에 실패한 경우에만 fallback 문구를 날짜 기반으로 하나 선택합니다.
+
+## 자동 커밋 메시지
+
+매일 생성되는 커밋 메시지는 최신 명언 일부를 포함합니다.
+
+```text
+chore(quote): "Great things are done by a series of small things…" 명언을 기록한다
+```
+
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
 - 마지막 기록일: 2026-05-09
 - 총 기록 수: 1
-- 최근 명언: People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.
+- 최근 명언: 아직 없음
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

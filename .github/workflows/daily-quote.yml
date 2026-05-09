@@ -28,6 +28,9 @@ jobs:
       - name: Plant daily quote
         run: npm run plant
 
+      - name: Build commit message
+        run: echo "COMMIT_MESSAGE=$(node scripts/print-commit-message.js)" >> "$GITHUB_ENV"
+
       - name: Commit daily quote
         env:
           GIT_AUTHOR_NAME: ${{ vars.GIT_AUTHOR_NAME || github.repository_owner }}
@@ -39,6 +42,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore(quote): 오늘의 명언을 기록한다"
+            git commit -m "$COMMIT_MESSAGE"
             git push
           fi

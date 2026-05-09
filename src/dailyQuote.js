@@ -21,7 +21,7 @@ export function selectFallbackQuote(quotes, dateString) {
 export async function getQuoteForToday({ rootDir, dateString, fetchImpl }) {
   try {
     return await fetchTodayQuote({ fetchImpl });
-  } catch (error) {
+  } catch {
     const fallbackPath = path.join(rootDir, "data", "fallback-quotes.json");
     const fallbackQuotes = await readJson(fallbackPath, []);
     return selectFallbackQuote(fallbackQuotes, dateString);

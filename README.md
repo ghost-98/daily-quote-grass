@@ -14,6 +14,7 @@ ZenQuotes API에서 오늘의 명언을 가져와 기록하고, 정적 UI로 누
 
 ```bash
 npm run plant
+npm run serve
 npm test
 ```
 
@@ -31,9 +32,9 @@ GIT_AUTHOR_EMAIL=<GitHub noreply 이메일 또는 계정에 연결된 이메일>
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 아직 없음
-- 총 기록 수: 0
-- 최근 명언: 아직 없음
+- 마지막 기록일: 2026-05-09
+- 총 기록 수: 1
+- 최근 명언: People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

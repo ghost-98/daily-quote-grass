@@ -1,0 +1,14 @@
+{
+  "name": "daily-quote-garden",
+  "version": "0.1.0",
+  "description": "ZenQuotes API에서 오늘의 명언을 가져와 기록하고 시각화하는 자동 커밋 저장소입니다.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "plant": "node scripts/plant-daily-quote.js",
+    "test": "node tests/run-tests.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

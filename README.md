@@ -48,7 +48,7 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 <!-- AUTO:QUOTE_STATUS:START -->
 - 마지막 기록일: 2026-05-09
 - 총 기록 수: 1
-- 최근 명언: 아직 없음
+- 최근 명언: People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

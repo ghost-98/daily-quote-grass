@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-05-11
-- 총 기록 수: 3
-- 최근 명언: The majority of what you want will come from the minority of what you do.
+- 마지막 기록일: 2026-05-12
+- 총 기록 수: 4
+- 최근 명언: We don't stop playing because we grow old; we grow old because we stop playing.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

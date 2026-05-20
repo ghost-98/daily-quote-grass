@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-05-20
-- 총 기록 수: 12
-- 최근 명언: Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.
+- 마지막 기록일: 2026-05-21
+- 총 기록 수: 13
+- 최근 명언: You can tell more about a person by what he says about others than you can by what others say about him.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

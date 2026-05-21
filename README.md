@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-05-21
-- 총 기록 수: 13
-- 최근 명언: You can tell more about a person by what he says about others than you can by what others say about him.
+- 마지막 기록일: 2026-05-22
+- 총 기록 수: 14
+- 최근 명언: If you can see it in your mind, you can hold it in your mind.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

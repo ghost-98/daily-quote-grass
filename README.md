@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-05-23
-- 총 기록 수: 15
-- 최근 명언: Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.
+- 마지막 기록일: 2026-05-24
+- 총 기록 수: 16
+- 최근 명언: No idea, no matter how good, will work if it doesn't get used.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

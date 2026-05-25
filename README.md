@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-05-25
-- 총 기록 수: 17
-- 최근 명언: Presents are made for the pleasure of who gives them, not the merits of who receives them.
+- 마지막 기록일: 2026-05-26
+- 총 기록 수: 18
+- 최근 명언: The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

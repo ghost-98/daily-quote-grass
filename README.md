@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-05-27
-- 총 기록 수: 19
-- 최근 명언: Learn only how to avoid seeking for and attaching yourselves to anything.
+- 마지막 기록일: 2026-05-28
+- 총 기록 수: 20
+- 최근 명언: Being wrong opens us up to the possibility of change.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

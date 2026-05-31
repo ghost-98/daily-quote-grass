@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-05-31
-- 총 기록 수: 23
-- 최근 명언: Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.
+- 마지막 기록일: 2026-06-01
+- 총 기록 수: 24
+- 최근 명언: In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

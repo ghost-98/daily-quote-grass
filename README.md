@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-01
-- 총 기록 수: 24
-- 최근 명언: In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.
+- 마지막 기록일: 2026-06-02
+- 총 기록 수: 25
+- 최근 명언: Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-03
-- 총 기록 수: 26
-- 최근 명언: The only thing worse than being blind is having sight but no vision.
+- 마지막 기록일: 2026-06-04
+- 총 기록 수: 27
+- 최근 명언: You are always your own best guru, your own best teacher, the answers are always inside you.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

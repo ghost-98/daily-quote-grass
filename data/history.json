@@ -201,5 +201,12 @@
     "source": "zenquotes",
     "sourceUrl": "https://zenquotes.io/",
     "timezone": "Asia/Seoul"
+  },
+  "2026-06-07": {
+    "text": "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.",
+    "author": "Confucius",
+    "source": "zenquotes",
+    "sourceUrl": "https://zenquotes.io/",
+    "timezone": "Asia/Seoul"
   }
 }

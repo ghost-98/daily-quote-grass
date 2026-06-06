@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-06
-- 총 기록 수: 29
-- 최근 명언: One of the most difficult things is not to change society - but to change yourself.
+- 마지막 기록일: 2026-06-07
+- 총 기록 수: 30
+- 최근 명언: The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

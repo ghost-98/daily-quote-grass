@@ -208,5 +208,12 @@
     "source": "zenquotes",
     "sourceUrl": "https://zenquotes.io/",
     "timezone": "Asia/Seoul"
+  },
+  "2026-06-08": {
+    "text": "작은 반복은 조용히 방향을 만든다.",
+    "author": "Daily Quote Garden",
+    "source": "fallback",
+    "sourceUrl": null,
+    "timezone": "Asia/Seoul"
   }
 }

@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-08
-- 총 기록 수: 31
-- 최근 명언: 작은 반복은 조용히 방향을 만든다.
+- 마지막 기록일: 2026-06-09
+- 총 기록 수: 32
+- 최근 명언: I like the dreams of the future better than the history of the past.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

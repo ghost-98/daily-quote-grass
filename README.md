@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-10
-- 총 기록 수: 33
-- 최근 명언: Given the choice between the experience of pain and nothing, I would choose pain.
+- 마지막 기록일: 2026-06-11
+- 총 기록 수: 34
+- 최근 명언: Short cuts make long delays.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

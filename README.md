@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-11
-- 총 기록 수: 34
-- 최근 명언: Short cuts make long delays.
+- 마지막 기록일: 2026-06-12
+- 총 기록 수: 35
+- 최근 명언: Every man desires to live long, but no man wishes to be old.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

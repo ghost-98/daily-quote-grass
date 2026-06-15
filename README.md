@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-15
-- 총 기록 수: 38
-- 최근 명언: Anger begins with folly, and ends with repentance.
+- 마지막 기록일: 2026-06-16
+- 총 기록 수: 39
+- 최근 명언: Your dream has to be bigger than your fear.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

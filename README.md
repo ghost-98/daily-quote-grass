@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-17
-- 총 기록 수: 40
-- 최근 명언: The road to success is always under construction..
+- 마지막 기록일: 2026-06-18
+- 총 기록 수: 41
+- 최근 명언: Never whine, never complain, never try to justify yourself.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

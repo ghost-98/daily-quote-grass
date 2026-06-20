@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-20
-- 총 기록 수: 43
-- 최근 명언: All we have to decide is what to do with the time that is given to us.
+- 마지막 기록일: 2026-06-21
+- 총 기록 수: 44
+- 최근 명언: Let us rather run the risk of wearing out than rusting out.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

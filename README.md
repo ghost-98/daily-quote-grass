@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-22
-- 총 기록 수: 45
-- 최근 명언: Only when you can be extremely pliable and soft can you be extremely hard and strong.
+- 마지막 기록일: 2026-06-23
+- 총 기록 수: 46
+- 최근 명언: Argue for your limitations and sure enough, they're yours.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

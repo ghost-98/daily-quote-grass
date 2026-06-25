@@ -334,5 +334,12 @@
     "source": "zenquotes",
     "sourceUrl": "https://zenquotes.io/",
     "timezone": "Asia/Seoul"
+  },
+  "2026-06-26": {
+    "text": "The best fighter is never angry.",
+    "author": "Lao Tzu",
+    "source": "zenquotes",
+    "sourceUrl": "https://zenquotes.io/",
+    "timezone": "Asia/Seoul"
   }
 }

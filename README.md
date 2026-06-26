@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-26
-- 총 기록 수: 49
-- 최근 명언: The best fighter is never angry.
+- 마지막 기록일: 2026-06-27
+- 총 기록 수: 50
+- 최근 명언: It is dangerous to be right in matters on which the established authorities are wrong.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

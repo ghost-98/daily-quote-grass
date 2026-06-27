@@ -348,5 +348,12 @@
     "source": "zenquotes",
     "sourceUrl": "https://zenquotes.io/",
     "timezone": "Asia/Seoul"
+  },
+  "2026-06-28": {
+    "text": "Do Something. If it works, do more of it. If it doesn't, do something else.",
+    "author": "Franklin D. Roosevelt",
+    "source": "zenquotes",
+    "sourceUrl": "https://zenquotes.io/",
+    "timezone": "Asia/Seoul"
   }
 }

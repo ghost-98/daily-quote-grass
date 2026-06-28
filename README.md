@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-06-28
-- 총 기록 수: 51
-- 최근 명언: Do Something. If it works, do more of it. If it doesn't, do something else.
+- 마지막 기록일: 2026-06-29
+- 총 기록 수: 52
+- 최근 명언: Truth is the offspring of silence and meditation.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

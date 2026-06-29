@@ -362,5 +362,12 @@
     "source": "zenquotes",
     "sourceUrl": "https://zenquotes.io/",
     "timezone": "Asia/Seoul"
+  },
+  "2026-06-30": {
+    "text": "All leaders are readers.",
+    "author": "Jim Rohn",
+    "source": "zenquotes",
+    "sourceUrl": "https://zenquotes.io/",
+    "timezone": "Asia/Seoul"
   }
 }

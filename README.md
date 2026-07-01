@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-01
-- 총 기록 수: 54
-- 최근 명언: To create more positive results in your life, replace 'if only' with 'next time'.
+- 마지막 기록일: 2026-07-02
+- 총 기록 수: 55
+- 최근 명언: People who say it cannot be done should not interrupt those who are doing it.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

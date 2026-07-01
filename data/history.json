@@ -376,5 +376,12 @@
     "source": "zenquotes",
     "sourceUrl": "https://zenquotes.io/",
     "timezone": "Asia/Seoul"
+  },
+  "2026-07-02": {
+    "text": "People who say it cannot be done should not interrupt those who are doing it.",
+    "author": "George Bernard Shaw",
+    "source": "zenquotes",
+    "sourceUrl": "https://zenquotes.io/",
+    "timezone": "Asia/Seoul"
   }
 }

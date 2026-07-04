@@ -397,5 +397,12 @@
     "source": "zenquotes",
     "sourceUrl": "https://zenquotes.io/",
     "timezone": "Asia/Seoul"
+  },
+  "2026-07-05": {
+    "text": "Patience is bitter, but its fruit is sweet.",
+    "author": "Aristotle",
+    "source": "zenquotes",
+    "sourceUrl": "https://zenquotes.io/",
+    "timezone": "Asia/Seoul"
   }
 }

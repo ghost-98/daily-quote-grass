@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-09
-- 총 기록 수: 62
-- 최근 명언: Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.
+- 마지막 기록일: 2026-07-10
+- 총 기록 수: 63
+- 최근 명언: When you've got nothing, you've got nothing to lose.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-10
-- 총 기록 수: 63
-- 최근 명언: When you've got nothing, you've got nothing to lose.
+- 마지막 기록일: 2026-07-11
+- 총 기록 수: 64
+- 최근 명언: When something comes from within, when it is a part of you, you have no choice but to live it, to express it.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-12
-- 총 기록 수: 65
-- 최근 명언: Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.
+- 마지막 기록일: 2026-07-13
+- 총 기록 수: 66
+- 최근 명언: Success is a consequence and must not be a goal.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

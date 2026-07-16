@@ -481,5 +481,12 @@
     "source": "zenquotes",
     "sourceUrl": "https://zenquotes.io/",
     "timezone": "Asia/Seoul"
+  },
+  "2026-07-17": {
+    "text": "Knowing others is wisdom, knowing yourself is enlightenment.",
+    "author": "Lao Tzu",
+    "source": "zenquotes",
+    "sourceUrl": "https://zenquotes.io/",
+    "timezone": "Asia/Seoul"
   }
 }

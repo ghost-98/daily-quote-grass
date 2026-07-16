@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-16
-- 총 기록 수: 69
-- 최근 명언: There's no next time. It's now or never.
+- 마지막 기록일: 2026-07-17
+- 총 기록 수: 70
+- 최근 명언: Knowing others is wisdom, knowing yourself is enlightenment.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-17
-- 총 기록 수: 70
-- 최근 명언: Knowing others is wisdom, knowing yourself is enlightenment.
+- 마지막 기록일: 2026-07-18
+- 총 기록 수: 71
+- 최근 명언: Death and life have their determined appointments; riches and honors depend upon heaven.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

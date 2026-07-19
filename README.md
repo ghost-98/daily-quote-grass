@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-19
-- 총 기록 수: 72
-- 최근 명언: Would you rather live your life according to the approval of others or aligned with your truth and your dreams?
+- 마지막 기록일: 2026-07-20
+- 총 기록 수: 73
+- 최근 명언: The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

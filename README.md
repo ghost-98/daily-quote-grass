@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-21
-- 총 기록 수: 74
-- 최근 명언: An action committed in anger is an action doomed to failure.
+- 마지막 기록일: 2026-07-22
+- 총 기록 수: 75
+- 최근 명언: Do Something. If it works, do more of it. If it doesn't, do something else.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

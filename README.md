@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-27
-- 총 기록 수: 80
-- 최근 명언: Let us rather run the risk of wearing out than rusting out.
+- 마지막 기록일: 2026-07-28
+- 총 기록 수: 81
+- 최근 명언: But better die than live mechanically a life that is a repetition of repetitions.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

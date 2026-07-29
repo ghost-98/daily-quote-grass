@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-29
-- 총 기록 수: 82
-- 최근 명언: Be kind, for everyone you meet is fighting a harder battle.
+- 마지막 기록일: 2026-07-30
+- 총 기록 수: 83
+- 최근 명언: If you let your head get too big, it'll break your neck.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

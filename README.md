@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-30
-- 총 기록 수: 83
-- 최근 명언: If you let your head get too big, it'll break your neck.
+- 마지막 기록일: 2026-07-31
+- 총 기록 수: 84
+- 최근 명언: It isn't that they can't see the solution. It is that they can't see the problem.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

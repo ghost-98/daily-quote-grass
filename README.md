@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-07-31
-- 총 기록 수: 84
-- 최근 명언: It isn't that they can't see the solution. It is that they can't see the problem.
+- 마지막 기록일: 2026-08-01
+- 총 기록 수: 85
+- 최근 명언: New beginnings are disguised as painful endings.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-08-02
-- 총 기록 수: 86
-- 최근 명언: Expect the best of yourself, and then do what is necessary to make it a reality.
+- 마지막 기록일: 2026-08-03
+- 총 기록 수: 87
+- 최근 명언: Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

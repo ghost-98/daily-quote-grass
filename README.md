@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-08-05
-- 총 기록 수: 89
-- 최근 명언: Love never keeps a man from pursuing his destiny.
+- 마지막 기록일: 2026-08-06
+- 총 기록 수: 90
+- 최근 명언: It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

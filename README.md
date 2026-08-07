@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-08-06
-- 총 기록 수: 90
-- 최근 명언: It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+- 마지막 기록일: 2026-08-08
+- 총 기록 수: 91
+- 최근 명언: Ability is a poor man's wealth.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

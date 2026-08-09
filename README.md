@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-08-09
-- 총 기록 수: 92
-- 최근 명언: The greatest discovery of all time is that a person can change their future by merely changing their attitude.
+- 마지막 기록일: 2026-08-10
+- 총 기록 수: 93
+- 최근 명언: Magic is believing in yourself, if you can do that, you can make anything happen.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

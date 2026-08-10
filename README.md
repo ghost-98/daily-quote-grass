@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-08-10
-- 총 기록 수: 93
-- 최근 명언: Magic is believing in yourself, if you can do that, you can make anything happen.
+- 마지막 기록일: 2026-08-11
+- 총 기록 수: 94
+- 최근 명언: Correct what you can. Learn from what you can't.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

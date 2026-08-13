@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-08-13
-- 총 기록 수: 96
-- 최근 명언: Sadness is but a wall between two gardens.
+- 마지막 기록일: 2026-08-14
+- 총 기록 수: 97
+- 최근 명언: Keep your face to the sunshine and you cannot see the shadows.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

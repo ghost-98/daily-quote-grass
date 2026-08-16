@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-08-16
-- 총 기록 수: 99
-- 최근 명언: Man suffers only because he takes seriously what the gods made for fun.
+- 마지막 기록일: 2026-08-17
+- 총 기록 수: 100
+- 최근 명언: Motivation is what gets you started. Habit is what keeps you going.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

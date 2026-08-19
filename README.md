@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-08-19
-- 총 기록 수: 102
-- 최근 명언: No one can compete with you on being you. Most of life is a search for who and what needs you the most.
+- 마지막 기록일: 2026-08-20
+- 총 기록 수: 103
+- 최근 명언: Why change? Everyone has his own style. When you have found it, you should stick to it.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-08-20
-- 총 기록 수: 103
-- 최근 명언: Why change? Everyone has his own style. When you have found it, you should stick to it.
+- 마지막 기록일: 2026-08-21
+- 총 기록 수: 104
+- 최근 명언: No matter how tall the mountain is, it cannot block the sun.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

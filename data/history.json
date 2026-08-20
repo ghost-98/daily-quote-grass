@@ -719,5 +719,12 @@
     "source": "zenquotes",
     "sourceUrl": "https://zenquotes.io/",
     "timezone": "Asia/Seoul"
+  },
+  "2026-08-21": {
+    "text": "No matter how tall the mountain is, it cannot block the sun.",
+    "author": "Chinese Proverb",
+    "source": "zenquotes",
+    "sourceUrl": "https://zenquotes.io/",
+    "timezone": "Asia/Seoul"
   }
 }

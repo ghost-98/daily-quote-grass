@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-08-22
-- 총 기록 수: 105
-- 최근 명언: Listen to the secret sound, the real sound, which is inside you.
+- 마지막 기록일: 2026-08-23
+- 총 기록 수: 106
+- 최근 명언: Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

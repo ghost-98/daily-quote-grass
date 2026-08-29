@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-08-29
-- 총 기록 수: 112
-- 최근 명언: Whatever you decide to do, make sure it makes you happy.
+- 마지막 기록일: 2026-08-30
+- 총 기록 수: 113
+- 최근 명언: Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

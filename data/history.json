@@ -789,5 +789,12 @@
     "source": "zenquotes",
     "sourceUrl": "https://zenquotes.io/",
     "timezone": "Asia/Seoul"
+  },
+  "2026-08-31": {
+    "text": "Keep your eyes on the goal, and just keep taking the next step towards completing it.",
+    "author": "John Carmack",
+    "source": "zenquotes",
+    "sourceUrl": "https://zenquotes.io/",
+    "timezone": "Asia/Seoul"
   }
 }

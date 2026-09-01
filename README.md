@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-09-01
-- 총 기록 수: 115
-- 최근 명언: To a mind that is still, the entire universe surrenders.
+- 마지막 기록일: 2026-09-02
+- 총 기록 수: 116
+- 최근 명언: Stop wasting time defending your problems and work on addressing them instead.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

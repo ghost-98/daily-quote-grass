@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-09-06
-- 총 기록 수: 120
-- 최근 명언: However difficult life may seem, there is always something you can do and succeed at.
+- 마지막 기록일: 2026-09-07
+- 총 기록 수: 121
+- 최근 명언: A man with outward courage dares to die: a man with inner courage dares to live.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-09-08
-- 총 기록 수: 122
-- 최근 명언: The greatest treasures are those invisible to the eye but found by the heart.
+- 마지막 기록일: 2026-09-09
+- 총 기록 수: 123
+- 최근 명언: High thoughts must have high language.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

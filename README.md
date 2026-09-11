@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-09-11
-- 총 기록 수: 125
-- 최근 명언: Simple words, repeated daily, can change your life.
+- 마지막 기록일: 2026-09-12
+- 총 기록 수: 126
+- 최근 명언: It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

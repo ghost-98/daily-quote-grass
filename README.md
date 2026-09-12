@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-09-12
-- 총 기록 수: 126
-- 최근 명언: It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.
+- 마지막 기록일: 2026-09-13
+- 총 기록 수: 127
+- 최근 명언: He who leaves the game wins it.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

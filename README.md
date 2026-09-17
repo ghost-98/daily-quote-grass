@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-09-17
-- 총 기록 수: 131
-- 최근 명언: Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.
+- 마지막 기록일: 2026-09-18
+- 총 기록 수: 132
+- 최근 명언: When things go wrong, don't go with them.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

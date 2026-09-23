@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-09-23
-- 총 기록 수: 137
-- 최근 명언: Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.
+- 마지막 기록일: 2026-09-24
+- 총 기록 수: 138
+- 최근 명언: When we strive to become better than we are, everything around us becomes better, too.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

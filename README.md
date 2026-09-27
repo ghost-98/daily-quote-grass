@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-09-27
-- 총 기록 수: 141
-- 최근 명언: If you get up one more time than you fall, you will make it through.
+- 마지막 기록일: 2026-09-28
+- 총 기록 수: 142
+- 최근 명언: Don't let your learning lead to knowledge. Let your learning lead to action.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

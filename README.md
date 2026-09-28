@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-09-28
-- 총 기록 수: 142
-- 최근 명언: Don't let your learning lead to knowledge. Let your learning lead to action.
+- 마지막 기록일: 2026-09-29
+- 총 기록 수: 143
+- 최근 명언: One mistake does not have to rule a person's entire life.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

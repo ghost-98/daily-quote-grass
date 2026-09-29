@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-09-29
-- 총 기록 수: 143
-- 최근 명언: One mistake does not have to rule a person's entire life.
+- 마지막 기록일: 2026-09-30
+- 총 기록 수: 144
+- 최근 명언: Silence is a source of great strength.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

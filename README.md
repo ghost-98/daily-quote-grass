@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-10-02
-- 총 기록 수: 146
-- 최근 명언: When you stop questioning, you stop learning.
+- 마지막 기록일: 2026-10-03
+- 총 기록 수: 147
+- 최근 명언: I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

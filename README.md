@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-10-04
-- 총 기록 수: 148
-- 최근 명언: We are born from a quiet sleep, and we die to a calm awakening
+- 마지막 기록일: 2026-10-05
+- 총 기록 수: 149
+- 최근 명언: Would you rather learn to deal with the truth now than be forced to do so later on?
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

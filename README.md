@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-10-10
-- 총 기록 수: 154
-- 최근 명언: The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.
+- 마지막 기록일: 2026-10-11
+- 총 기록 수: 155
+- 최근 명언: Ability is a poor man's wealth.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

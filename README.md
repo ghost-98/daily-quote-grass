@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-10-18
-- 총 기록 수: 162
-- 최근 명언: You've got to get up every morning with determination if you're going to go to bed with satisfaction.
+- 마지막 기록일: 2026-10-19
+- 총 기록 수: 163
+- 최근 명언: The greater the impact you want to make, the greater your influence needs to be.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

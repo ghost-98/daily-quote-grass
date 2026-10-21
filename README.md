@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-10-21
-- 총 기록 수: 165
-- 최근 명언: Success is about doing the right thing, not about doing everything right.
+- 마지막 기록일: 2026-10-22
+- 총 기록 수: 166
+- 최근 명언: Each day your life grows a day shorter. Make every move count.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

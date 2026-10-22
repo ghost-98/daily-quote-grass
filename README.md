@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-10-22
-- 총 기록 수: 166
-- 최근 명언: Each day your life grows a day shorter. Make every move count.
+- 마지막 기록일: 2026-10-23
+- 총 기록 수: 167
+- 최근 명언: The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

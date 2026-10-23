@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-10-23
-- 총 기록 수: 167
-- 최근 명언: The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.
+- 마지막 기록일: 2026-10-24
+- 총 기록 수: 168
+- 최근 명언: If someone betrays you once, it's their fault; if they betray you twice, it's your fault.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

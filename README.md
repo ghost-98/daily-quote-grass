@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-10-24
-- 총 기록 수: 168
-- 최근 명언: If someone betrays you once, it's their fault; if they betray you twice, it's your fault.
+- 마지막 기록일: 2026-10-25
+- 총 기록 수: 169
+- 최근 명언: There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

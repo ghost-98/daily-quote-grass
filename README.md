@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-10-28
-- 총 기록 수: 172
-- 최근 명언: Still your waters.
+- 마지막 기록일: 2026-10-29
+- 총 기록 수: 173
+- 최근 명언: What we dwell on is who we become.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

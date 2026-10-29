@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-10-29
-- 총 기록 수: 173
-- 최근 명언: What we dwell on is who we become.
+- 마지막 기록일: 2026-10-30
+- 총 기록 수: 174
+- 최근 명언: The more reasons you have for achieving your goal, the more determined you will become.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

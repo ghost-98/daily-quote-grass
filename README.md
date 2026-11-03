@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-11-03
-- 총 기록 수: 178
-- 최근 명언: If you want others to be happy, practice compassion. If you want to be happy, practice compassion.
+- 마지막 기록일: 2026-11-04
+- 총 기록 수: 179
+- 최근 명언: When the time is gone, you can never get it back.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

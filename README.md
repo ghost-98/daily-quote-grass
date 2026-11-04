@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-11-04
-- 총 기록 수: 179
-- 최근 명언: When the time is gone, you can never get it back.
+- 마지막 기록일: 2026-11-05
+- 총 기록 수: 180
+- 최근 명언: What the eye doesn't see and the mind doesn't know, doesn't exist.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

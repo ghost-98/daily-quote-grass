@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-11-06
-- 총 기록 수: 181
-- 최근 명언: Debt is the slavery of the free.
+- 마지막 기록일: 2026-11-07
+- 총 기록 수: 182
+- 최근 명언: Your mind is infinite, it's your doubts that are limiting.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

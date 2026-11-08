@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-11-08
-- 총 기록 수: 183
-- 최근 명언: The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.
+- 마지막 기록일: 2026-11-09
+- 총 기록 수: 184
+- 최근 명언: People spend too much time doing and not enough time thinking about what they should be doing.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

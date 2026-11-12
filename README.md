@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-11-12
-- 총 기록 수: 187
-- 최근 명언: A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.
+- 마지막 기록일: 2026-11-13
+- 총 기록 수: 188
+- 최근 명언: In the practice of tolerance, one's enemy is the best teacher.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

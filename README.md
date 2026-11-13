@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-11-13
-- 총 기록 수: 188
-- 최근 명언: In the practice of tolerance, one's enemy is the best teacher.
+- 마지막 기록일: 2026-11-14
+- 총 기록 수: 189
+- 최근 명언: An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

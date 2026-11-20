@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-11-20
-- 총 기록 수: 195
-- 최근 명언: You are never too old to become younger.
+- 마지막 기록일: 2026-11-21
+- 총 기록 수: 196
+- 최근 명언: Never waste a minute of your precious life thinking about people you don't like.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

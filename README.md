@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-11-21
-- 총 기록 수: 196
-- 최근 명언: Never waste a minute of your precious life thinking about people you don't like.
+- 마지막 기록일: 2026-11-22
+- 총 기록 수: 197
+- 최근 명언: To avoid criticism, do nothing, say nothing, and be nothing.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

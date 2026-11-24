@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-11-23
-- 총 기록 수: 198
-- 최근 명언: Peace is not the absence of conflict, but the ability to cope with it.
+- 마지막 기록일: 2026-11-24
+- 총 기록 수: 199
+- 최근 명언: The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처

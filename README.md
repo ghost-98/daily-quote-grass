@@ -46,9 +46,9 @@ chore(quote): "Great things are done by a series of small things…" 명언을 �
 ## 자동 기록 현황
 
 <!-- AUTO:QUOTE_STATUS:START -->
-- 마지막 기록일: 2026-11-27
-- 총 기록 수: 202
-- 최근 명언: Keep your eyes on the stars, but remember to keep your feet on the ground.
+- 마지막 기록일: 2026-11-28
+- 총 기록 수: 203
+- 최근 명언: It takes half your life before you discover life is a do-it-yourself project.
 <!-- AUTO:QUOTE_STATUS:END -->
 
 ## 출처
